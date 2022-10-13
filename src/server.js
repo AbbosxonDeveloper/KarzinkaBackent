@@ -145,7 +145,7 @@ app.get("/like", (req, res) => {
     res.status(200).json(resolt)
 })
 
-
+app.get("/OK", console.log("OK"))
 
 app.get("/rout", observe, (req, res) => {
     const userToken = jwt.verify(req.headers.token, "akmal")
