@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Doston",
+        "password": "doston123",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Murod",
+        "password": "morud123",
+        "role": "admin"
+    },
+    {
+        "id": 5,
+        "name": "Jabbor",
+        "password": "jabbor123",
+        "role": "user",
+        "producId": [
+            1,
+            4
+        ],
+        "like": [
+            2,
+            1
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Akmal",
+        "password": "akmal123",
+        "role": "user",
+        "producId": [],
+        "like": []
+    },
+    {
+        "id": 7,
+        "name": "Akmal",
+        "password": "akmal123",
+        "role": "user",
+        "producId": [],
+        "like": []
+    },
+    {
+        "id": 8,
+        "name": "akmal",
+        "password": "akmalk",
+        "role": "user",
+        "producId": [],
+        "like": []
+    },
+    {
+        "id": 12,
+        "name": "erj",
+        "password": "erjn",
+        "role": "user",
+        "producId": [],
+        "like": []
+    },
+    {
+        "id": 13,
+        "name": "cd",
+        "password": "cd",
+        "role": "user",
+        "producId": [],
+        "like": []
+    },
+    {
+        "id": 14,
+        "name": "akmal",
+        "password": "cdchb",
+        "role": "user",
+        "producId": [],
+        "like": []
+    },
+    {
+        "id": 16,
+        "name": "akmal",
+        "password": "akmla",
+        "role": "user",
+        "producId": [],
+        "like": []
+    },
+    {
+        "id": 17,
+        "name": "dkn",
+        "password": "edin",
+        "role": "user",
+        "producId": [],
+        "like": []
+    },
+    {
+        "id": 18,
+        "name": "Akmal",
+        "password": "1665629258346",
+        "role": "user",
+        "producId": [],
+        "like": []
+    }
+]
